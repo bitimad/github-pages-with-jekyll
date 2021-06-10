@@ -1,1 +1,4 @@
-this is just a test 
+---
+title: "this is a test"
+date: 2021-06-10
+---
